@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": "2",
+      "name": "steve smith",
+      "email": "s.smith@gmail.com",
+      "age": 50
+    },
+    {
+      "id": "3",
+      "name": "kylie",
+      "email": "kylie@gmail.com",
+      "age": 17
+    },
+    {
+      "name": "Julian",
+      "email": "julian@gmail.com",
+      "age": 21,
+      "id": "4CEKY4r"
+    }
+  ]
+}
